@@ -1,8 +1,8 @@
-# Criptografia e Descriptografia
+## Criptografia e Descriptografia
 
-Exemplo de Criptografia e descriptografia de mensagens utilizando Python.
+#Exemplo de Criptografia e descriptografia de mensagens utilizando Python.
 <p> 
-A
+  A descriptografia da mensagem é feita utilizando a função char()
 </p>
 
 
