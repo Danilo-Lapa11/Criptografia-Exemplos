@@ -9,9 +9,7 @@
 	x-y sáo os indices da sub lista que vão ser concatenados para formar a letra e assim sucessivamente uma palavra.
 </p>
 
-## Demonstração: 
-<video width="640" height="480" controls>
-  <source src="video.mp4" type="[video/mp4](https://user-images.githubusercontent.com/92560483/236201199-68d27702-2c5a-4181-b084-c23c1f77c448.gif)">
-</video>
+<br>
 
-![GIF do Codigo](https://user-images.githubusercontent.com/92560483/236201199-68d27702-2c5a-4181-b084-c23c1f77c448.gif)
+## Demonstração: 
+https://user-images.githubusercontent.com/92560483/236205447-9fd64906-8633-4b1f-b35b-f66b0e89e01b.mp4
